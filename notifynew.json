@@ -1,0 +1,13 @@
+{
+"newVersion":"5.61",
+"newVcode":"561",
+"FFSGVerNew":"1.0",
+"FFSGCodeNew":"11", 
+"dialogTitle":"NOTES",
+"dialogSubtitle":"Hi I have good news and bad news :(\nThe bad news is that SensiX Xarena will not be updated anymore, because there are too many bugs and errors, and the good news is that I created a new SensiV Xarena application that has been released on the Telegram :)\n\nHai, Saya punya Kabar baik dan kabar buruk :(\nKabar buruknya SensiX Xarena idak akan di perbarui lagi, karena terlalu banyak bug dan error, dan kabar baiknya saya membuat aplikasi baru SensiV Xarena yang sudah rilis di Telegram :)",
+"dialogInfo":"[INFO] \"SensiV Xarena\" Has been released, you can try app on Telegram",
+"visibleButton":"true",
+"textButton":"Update Now",
+"upLink":"https://t.me/xarenaofficial",
+"dialogCancelable":"false"
+}
